@@ -1,0 +1,13 @@
+body { margin: 0; padding: 0;}
+
+main { background-color: rgb(113, 128, 212); height: 100vh; overflow: hidden;}
+
+h1{ text-align: center; }
+
+canvas { background-color: #fff; border-radius: 8px;}
+
+.col{ height: 100vh ; display: flex; justify-content: center; align-items: center; }
+
+.facebook{ transition: 0.5s; color: #FFFFFF;}
+
+.facebook:hover{ transition: 0.5s; color: #096FEF; }
